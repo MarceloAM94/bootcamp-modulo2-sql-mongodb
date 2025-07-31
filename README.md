@@ -77,4 +77,6 @@ bootcamp-modulo2-sql-nosql/
 ## ✍️ Autor
 
 **Marcelo Amaya**  
-Bootcamp Fullstack Java
+Bootcamp Fullstack Java – CodiGo  
+[GitHub](https://github.com/MarceloAM94)  
+[LinkedIn](https://www.linkedin.com/in/marcelo-amaya-medina-614518268/)

@@ -1,6 +1,6 @@
-# 📦 Módulo 2 – Bases de Datos: SQL y MongoDB
+# 🗃️ Módulo 2 – Bases de Datos: SQL y MongoDB
 
-Este repositorio contiene los ejercicios, consultas y notas desarrolladas durante el **Módulo 2** del bootcamp **Desarrollo Web Fullstack con Java** (CodiGo).
+Este repositorio contiene ejercicios, consultas, notas y recursos desarrollados durante el **Módulo 2** del bootcamp **Desarrollo Web Fullstack con Java** (CodiGo).
 
 ---
 
@@ -48,3 +48,33 @@ bootcamp-modulo2-sql-nosql/
 │   └── comandos_utiles.md
 └── /recursos
     └── enlaces.txt
+```
+## ✅ Progreso
+
+- [ ] Instalación y conexión a MySQL
+- [ ] Crear base de datos y tablas
+- [ ] Consultas básicas con SELECT
+- [ ] CRUD en SQL
+- [ ] JOINs y funciones agregadas
+- [ ] Introducción a MongoDB
+- [ ] Comandos básicos con Mongo Shell
+- [ ] Insertar, actualizar y borrar documentos
+- [ ] Consultas con Aggregation Framework
+- [ ] Proyecto integrador (SQL + NoSQL)
+
+---
+
+## 🔗 Recursos útiles
+
+- [Documentación oficial de MySQL](https://dev.mysql.com/doc/)
+- [Documentación oficial de MongoDB](https://www.mongodb.com/docs/manual/)
+- [MongoDB Aggregation Builder](https://www.mongodb.com/products/tools/aggregation-pipeline-builder)
+- [SQL Tutorial – W3Schools](https://www.w3schools.com/sql/)
+- [MongoDB Playground – CodeSandbox](https://codesandbox.io/s/mongodb-playground)
+
+---
+
+## ✍️ Autor
+
+**Marcelo Amaya**  
+Bootcamp Fullstack Java
